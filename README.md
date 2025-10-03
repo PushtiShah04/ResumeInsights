@@ -1,4 +1,4 @@
-# Resume Domain Classification using Machine Learning
+# ResumeInsights
 
 ## 1. Objective
 The primary objective of this project is to build a machine learning-based application capable of scanning and analyzing resumes to determine the specific domain of Computer Science a candidate is most likely associated with.  
